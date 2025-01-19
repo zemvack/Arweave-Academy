@@ -8,7 +8,7 @@ You can access this website it at: [Devour](https://lf3tthyxhhtgyrw3rpv3wmro4csa
 ![About Us](assets/screenshoot/ss2.png)
 ![Service](assets/screenshoot/ss3.png)
 ![Project](assets/screenshoot/ss4.png)
-![Contact](assets/ss/ss5.png)
+![Contact](assets/screenshoot/ss5.png)
 
 ## Description
 
