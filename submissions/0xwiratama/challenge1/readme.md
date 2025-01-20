@@ -1,4 +1,4 @@
-# Bang Pateng Website
+# Wiratama Website
 
 You can access this website it at: 
 
